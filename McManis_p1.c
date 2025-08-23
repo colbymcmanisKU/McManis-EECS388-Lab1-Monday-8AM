@@ -1,6 +1,6 @@
-#include <stdio.h>  // correct header
 
-int main()010
+
+int main()
 {
     int myNum;
     
@@ -9,4 +9,4 @@ int main()010
     printf("You typed: %d\n", myNum);
 
     return 0; // good practice
-}
+}xcode-select --install
